@@ -56,7 +56,7 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 6 Month
 <img align="left" alt="RTsoftbd" width="70px"  height="70px"  src="http://rtsoftbd.com/wp-content/uploads/2021/04/rtsoft_logo.png" />
 <Span><b>Jr. Software Developer (March 21 - August 21)</b></span><br />
 <Span>RTsoftbd</span><br />
-<Span>Mirpur DOHS, Dhaka-1216, Bangladesh</span>
+<Span>Panthapath, Dhaka 1205, Bangladesh</span>
 </p>
 
 
