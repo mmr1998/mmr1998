@@ -37,20 +37,63 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 6 Month
 <b>B.Sc.</b> in <b>Computer Science and Engineering</b> <i>(2016 - 2020)</i><br />
 [IUBAT— International University of Business Agriculture and Technology](https://iubat.edu/)
 
-## 🧰 Languages and Tools:
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="30px" height="30px" style="vertical-align:top; margin:14px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="30px" height="30px" style="vertical-align:top; margin:14px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="30px" height="30px" style="vertical-align:top; margin:14px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="30px" height="30px" style="vertical-align:top; margin:14px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="30px" height="30px" style="vertical-align:top; margin:14px">
-<img src="https://github.githubassets.com/favicons/favicon.svg" alt="Github" width="30px" height="30px" style="vertical-align:top; margin:14px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="30px" height="30px" style="vertical-align:top; margin:14px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="30px" height="30px" style="vertical-align:top; margin:14px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="30px" height="30px" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:14px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="30px" height="30px" style="vertical-align:top; margin:14px">
 
-</p>
+
+## :books: Languages:
+<a href="#">
+  <img align="left" alt="Html5" width="50px" height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" title="Html5" />
+</a>
+<a href="#">
+  <img align="left" alt="Css3" width="50px" height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" title="Css3" />
+</a>
+<a href="#">
+  <img align="left" alt="JavaScript" width="50px" height="50px" src="https://png.pngitem.com/pimgs/s/524-5249023_js-javascript-logo-hd-png-download.png" title="JavaScript" />
+</a>
+<a href="#">
+  <img align="left" alt="C#" width="50px" height="50px" src="https://cdn.imgbin.com/19/5/9/imgbin-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-x2vvzpHKBmQaYkXV2vQ67GPY7.jpg" title="C#" />
+</a>
+<a href="#">
+  <img align="left" alt="C#" width="50px" height="50px" src="https://forge.autodesk.com/sites/default/files/2019-04/1200px-.net_core_logo.svg.png" title="ASP.NET Core" />
+</a>
+<a href="#">
+  <img align="left" alt="Microsoft SQL Server" width="50px" height="50px" src="https://kontext.tech/api/flex/medias/obj-1713" title="Microsoft SQL Server" />
+</a>
+<a href="#">
+  <img align="left" alt="Anguler Js" width="50px" height="50px" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" title="Anguler Js" />
+</a>
+<a href="#">
+  <img align="left" alt="React Js" width="50px" height="50px" src="https://spng.pngfind.com/pngs/s/430-4309307_react-js-transparent-logo-hd-png-download.png" title="React Js" />
+</a>
+<a href="#">
+  <img align="left" alt="React Js" width="50px" height="50px" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG.png" title="Python" />
+</a>
+<a href="#">
+  <img align="left" alt="React Js" width="50px" height="50px" src="https://www.scottbrownconsulting.com/wp-content/uploads/2016/12/php7.png" title="PHP" />
+</a>
+
+
+<br />
+
+<br />
+
+
+## :computer: Tools:
+
+<a href="#">
+  <img align="left" alt="React Js" width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" title="Visual Studio" />
+</a>
+<a href="#">
+  <img align="left" alt="React Js" width="50px" height="50px" src="https://www.kindpng.com/picc/m/21-215460_microsoft-sql-server-logo-png-microsoft-sql-server.png" title="Microsoft SQL Server" />
+</a>
+<a href="#">
+  <img align="left" alt="React Js" width="50px" height="50px" src="https://www.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_.png" title="Adobe Photoshop" />
+</a>
+<a href="#">
+  <img align="left" alt="React Js" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/202px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" title="Microsoft Office" />
+</a>
+
+<br />
+
 
 <br />
 
