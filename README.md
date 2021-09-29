@@ -90,15 +90,6 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 6 Month
 <a href="#">
   <img align="left" alt="Anguler Js" width="50px" height="50px" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" title="Anguler Js" />
 </a>
-<a href="#">
-  <img align="left" alt="React Js" width="50px" height="50px" src="https://spng.pngfind.com/pngs/s/430-4309307_react-js-transparent-logo-hd-png-download.png" title="React Js" />
-</a>
-<a href="#">
-  <img align="left" alt="React Js" width="50px" height="50px" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG.png" title="Python" />
-</a>
-<a href="#">
-  <img align="left" alt="React Js" width="50px" height="50px" src="https://www.scottbrownconsulting.com/wp-content/uploads/2016/12/php7.png" title="PHP" />
-</a>
 
 
 <br />
