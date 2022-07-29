@@ -44,7 +44,7 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 6 Month
 ## :hourglass: Experience
 
 <p>
-<img align="left" alt="infinitytechltd" width="70px"  src="http://infinitytechltd.com/public/uploads/settings/2021-09-16-06-51-35-Infinity%20logo.jpg" />
+<img align="left" alt="infinitytechltd" width="70px"  src="https://infinitytechltd.com/wp-content/uploads/2020/07/cropped-WhatsApp-Image-2022-01-25-at-2.00.39-PM.jpeg" />
 <Span><b>ASP.NET Developer (October 21 - Present)</b></span><br />
 <Span>Infinity Technology International LTD</span><br />
 <Span>Mirpur DOHS, Dhaka-1216, Bangladesh</span>
