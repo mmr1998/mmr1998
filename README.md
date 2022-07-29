@@ -18,6 +18,9 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 6 Month
 <a href="https://www.upwork.com/freelancers/~018b15d7ba74ae5efd">  
   <img align="left" alt="MMR1998 | Upwork" width="30px" height="30px" src="https://www.upwork.com/favicon.ico" />
 </a>
+<a href="https://www.upwork.com/freelancers/~018b15d7ba74ae5efd">
+  <img align="left" alt="MMR1998 | Facebook" width="30px" height="30px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeH1qfeUXq71Kcd2cYYKDlR4aBWfmC2eGbdoFZ-YLZ4ZtwV8I4owzq243JobxfQKWv8RJrKAYOMysgK_dQLocZ3D" />
+</a>
 <a href="https://www.facebook.com/mmr1998/">
   <img align="left" alt="MMR1998 | Facebook" width="30px" height="30px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeH1qfeUXq71Kcd2cYYKDlR4aBWfmC2eGbdoFZ-YLZ4ZtwV8I4owzq243JobxfQKWv8RJrKAYOMysgK_dQLocZ3D" />
 </a>
