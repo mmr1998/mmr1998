@@ -5,7 +5,7 @@
 I’m a self-motivated Fresh Computer Science graduate who has More than 6 Months of professional work experience as a ASP.NET developer. Also, I have 2 years of part-time Web Development Experience. And my computer science background also helps me to build web and computer applications according to the client’s requirements. Along with it, I also work as a freelancer at [FIVERR](https://www.fiverr.com/mmr1998). From that, I have also gained the capability of clients handling and work on under extreme pressure. So, I believe I would make an excellent addition to your team. 
 #### A bit more about me :bowing_man:
 - 🔭 I’m currently Working as a ASP.NET Developer at [INFINITY TECHNOLOGY INTERNATIONAL LTD](http://infinitytechltd.com/).
-- 🌱 I’m Now learning ASP.NET 5.
+- 🌱 I’m Now learning & Working With ASP.NET 5 and Angular 12.
 - 👯 I’m looking to collaborate with anyone on any ASP.NET project.
 - 💬 You can Ask me about Wordpress Website Design and Digital Marketing
 - ⚡ Fun fact: I love Sleeping and Coding.
@@ -99,6 +99,9 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 6 Month
 
 <a href="#">
   <img align="left" alt="React Js" width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" title="Visual Studio" />
+</a>
+<a href="#">
+  <img align="left" alt="React Js" width="50px" height="50px" src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png" title="Visual Studio Code" />
 </a>
 <a href="#">
   <img align="left" alt="React Js" width="50px" height="50px" src="https://www.kindpng.com/picc/m/21-215460_microsoft-sql-server-logo-png-microsoft-sql-server.png" title="Microsoft SQL Server" />
