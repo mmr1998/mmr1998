@@ -51,7 +51,7 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 6 Month
 </p>
 <br />
 <p>
-<img align="left" alt="RTsoftbd" width="70px"  height="70px"  src="http://rtsoftbd.com/wp-content/uploads/2021/04/rtsoft_logo.png" />
+<img align="left" alt="RTsoftbd" width="70px"  height="70px"  src="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.18169-9/16830948_1322727401145623_3520667893070983216_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHcbHVGCC0kl6GVHT37cu6jFb0u7kgHglsVvS7uSAeCW86B3HmjRrpvmjkJwHgvsQFBTYi9JXDdgI_nE_W1-jZu&_nc_ohc=NXpHBZ3oUz0AX8SCHOz&_nc_ht=scontent.fdac24-1.fna&oh=00_AT9rdvqKifY6_D_hJsxS7eU2jTi9kIYs4YO75BQtZUYtxQ&oe=6308C61F" />
 <Span><b>Jr. Software Developer (March 21 - August 21)</b></span><br />
 <Span>RTsoftbd</span><br />
 <Span>Panthapath, Dhaka 1205, Bangladesh</span>
