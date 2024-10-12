@@ -17,7 +17,7 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 3 Years
 </a>
 
 <a href="https://www.facebook.com/mmr1998/">
-  <img align="left" alt="MMR1998 | Facebook" width="30px" height="30px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeH1qfeUXq71Kcd2cYYKDlR4aBWfmC2eGbdoFZ-YLZ4ZtwV8I4owzq243JobxfQKWv8RJrKAYOMysgK_dQLocZ3D" />
+  <img align="left" alt="MMR1998 | Facebook" width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 <a href="https://x.com/MR_MMR1998">
   <img align="left" alt="MMR1998 | X" width="30px" height="30px" src="https://abs.twimg.com/favicons/twitter.3.ico" />
