@@ -62,6 +62,16 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 3 Years
 
 
 ## :books: Languages:
+
+<a href="#">
+  <img align="left" alt="C#" width="50px" height="50px" src="https://forge.autodesk.com/sites/default/files/2019-04/1200px-.net_core_logo.svg.png" title="ASP.NET Core" />
+</a>
+<a href="#">
+  <img align="left" alt="Anguler Js" width="50px" height="50px" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" title="Anguler Js" />
+</a>
+<a href="#">
+  <img align="left" alt="Microsoft SQL Server" width="50px" height="50px" src="https://kontext.tech/api/flex/medias/obj-1713" title="Microsoft SQL Server" />
+</a>
 <a href="#">
   <img align="left" alt="Html5" width="50px" height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" title="Html5" />
 </a>
@@ -74,16 +84,6 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 3 Years
 <a href="#">
   <img align="left" alt="C#" width="50px" height="50px" src="https://cdn.imgbin.com/19/5/9/imgbin-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-x2vvzpHKBmQaYkXV2vQ67GPY7.jpg" title="C#" />
 </a>
-<a href="#">
-  <img align="left" alt="C#" width="50px" height="50px" src="https://forge.autodesk.com/sites/default/files/2019-04/1200px-.net_core_logo.svg.png" title="ASP.NET Core" />
-</a>
-<a href="#">
-  <img align="left" alt="Microsoft SQL Server" width="50px" height="50px" src="https://kontext.tech/api/flex/medias/obj-1713" title="Microsoft SQL Server" />
-</a>
-<a href="#">
-  <img align="left" alt="Anguler Js" width="50px" height="50px" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" title="Anguler Js" />
-</a>
-
 
 <br />
 
