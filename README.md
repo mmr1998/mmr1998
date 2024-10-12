@@ -19,11 +19,11 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 3 Years
 <a href="https://www.facebook.com/mmr1998/">
   <img align="left" alt="MMR1998 | Facebook" width="30px" height="30px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeH1qfeUXq71Kcd2cYYKDlR4aBWfmC2eGbdoFZ-YLZ4ZtwV8I4owzq243JobxfQKWv8RJrKAYOMysgK_dQLocZ3D" />
 </a>
-<a href="https://twitter.com/MR_MMR1998">
-  <img align="left" alt="MMR1998 | Twitter" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://x.com/MR_MMR1998">
+  <img align="left" alt="MMR1998 | X" width="30px" height="30px" src="https://abs.twimg.com/favicons/twitter.3.ico" />
 </a>
 <a href="https://www.linkedin.com/in/mmr1998/">
-  <img align="left" alt="MMR1998 | LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="MMR1998 | LinkedIn" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://join.skype.com/invite/UnKGK2JvPByc">
   <img align="left" alt="MMR1998 | Skype" width="30px" height="30px" src="https://cdn.freebiesupply.com/logos/large/2x/skype-3-logo-png-transparent.png" />
