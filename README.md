@@ -44,7 +44,7 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 3 Years
 ## :hourglass: Experience
 
 <p>
-<img align="left" alt="infinitytechltd" width="70px"  src="https://infinitytechltd.com/wp-content/uploads/2020/07/cropped-WhatsApp-Image-2022-01-25-at-2.00.39-PM.jpeg" />
+<img align="left" alt="infinitytechltd" width="70px"  src="https://www.infinitytechltd.com/storage/setting/websitesetting/infinity%20logo.jpeg" />
 <Span><b>Software Engineer (October 21, 2021 - Present)</b></span><br />
 <Span>Infinity Technology International LTD</span><br />
 <Span>Gulshan 2, Dhaka-1212, Bangladesh</span>
