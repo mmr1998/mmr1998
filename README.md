@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=mmr1998.mmr1998) [![Github](https://img.shields.io/github/followers/mmr1998?label=Followers&logo=Github)](https://github.com/mmr1998)
 
 ## :walking_man: About Me 😀
-I’m a self-motivated Fresh Computer Science graduate who has More than 3 Years of professional work experience as a ASP.NET developer. Also, I have 2 years of part-time Web Development Experience. And my computer science background also helps me to build web and computer applications according to the client’s requirements. Along with it, I also work as a freelancer at [FIVERR](https://www.fiverr.com/mmr1998). From that, I have also gained the capability of clients handling and work on under extreme pressure. So, I believe I would make an excellent addition to your team. 
+I’m a self-motivated Fresh Computer Science graduate who has More than 4 Years of professional work experience as a ASP.NET developer. I am committed to continuous learning, currently pursuing an MSc in Artificial Intelligence with Business Strategy at Aston University, Birmingham, UK, which allows me to explore AI-driven innovations for business applications.. Along with it, I also work as a freelancer at [FIVERR](https://www.fiverr.com/mmr1998). From that, I have also gained the capability of clients handling and work on under extreme pressure. So, I believe I would make an excellent addition to your team. 
 #### A bit more about me :bowing_man:
 - 🔭 I’m currently Working as a ASP.NET Developer.
 - 🌱 I’m Now learning & Working With ASP.NET 5+ and Angular 12+.
@@ -44,9 +44,16 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 3 Years
 ## :hourglass: Experience
 
 <p>
+<img align="left" alt="simecsystemsltd" width="70px"  src="https://simecsystem.com/wp-content/themes/customtheme/images/System-logo.svg" />
+<Span><b>Full-Stack Software Developer (September 01, 2023 - November 30, 2024)</b></span><br />
+<Span>SIMEC Systems Ltd.</span><br />
+<Span>Uttara, Dhaka-1230, Bangladesh</span>
+</p>
+
+<p>
 <img align="left" alt="infinitytechltd" width="70px"  src="https://www.infinitytechltd.com/storage/setting/websitesetting/infinity%20logo.jpeg" />
-<Span><b>Software Engineer (October 21, 2021 - Present)</b></span><br />
-<Span>Infinity Technology International LTD</span><br />
+<Span><b>Software Developer (September 01, 2021 - August 28, 2023)</b></span><br />
+<Span>Infinity Technology International Ltd.</span><br />
 <Span>Gulshan 2, Dhaka-1212, Bangladesh</span>
 </p>
 <br />
@@ -56,8 +63,11 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 3 Years
 
 ## 🎓 Education 
 
+<b>M.Sc.</b> in <b>Artificial Intelligence with Business Strategy</b> <i>(2025 - 2026)</i><br />
+[Aston University, Birmingham, UK](https://www.aston.ac.uk/)
+
 <b>B.Sc.</b> in <b>Computer Science and Engineering</b> <i>(2016 - 2020)</i><br />
-[IUBAT— International University of Business Agriculture and Technology](https://iubat.edu/)
+[IUBAT— International University of Business Agriculture and Technology, Dhaka, Bangladesh](https://iubat.edu/)
 
 
 
