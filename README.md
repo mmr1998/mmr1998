@@ -45,7 +45,7 @@ I am an experienced Full-Stack Software Developer with over 4 years of professio
 ## :hourglass: Experience
 
 <p>
-<img align="left" alt="simecsystemsltd" width="70px" height="30px" src="https://simecsystem.com/wp-content/themes/customtheme/images/System-logo.svg" />
+<img align="left" alt="simecsystemsltd" width="70px" src="https://media.licdn.com/dms/image/v2/C560BAQFvjv-ZOR0AEw/company-logo_200_200/company-logo_200_200/0/1634045062235/simecsystemltd_logo?e=1747267200&v=beta&t=eJSOWVel4KWqWMfELB1aBM6P_lNhJ2DLcabNKlyHcEo" />
 <Span><b>Full-Stack Software Developer (September 01, 2023 - November 30, 2024)</b></span><br />
 <Span>SIMEC Systems Ltd.</span><br />
 <Span>Uttara, Dhaka-1230, Bangladesh</span>
