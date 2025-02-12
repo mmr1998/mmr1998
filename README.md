@@ -2,7 +2,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=mmr1998.mmr1998) [![Github](https://img.shields.io/github/followers/mmr1998?label=Followers&logo=Github)](https://github.com/mmr1998)
 
 ## :walking_man: About Me 😀
-I’m a self-motivated Fresh Computer Science graduate who has More than 4 Years of professional work experience as a ASP.NET developer. I am committed to continuous learning, currently pursuing an MSc in Artificial Intelligence with Business Strategy at Aston University, Birmingham, UK, which allows me to explore AI-driven innovations for business applications.. Along with it, I also work as a freelancer at [FIVERR](https://www.fiverr.com/mmr1998). From that, I have also gained the capability of clients handling and work on under extreme pressure. So, I believe I would make an excellent addition to your team. 
+I am an experienced Full-Stack Software Developer with over 4 years of professional experience in designing and developing scalable applications using the .NET framework, SQL Server, and modern frontend technologies like React. I am committed to continuous learning, currently pursuing an MSc in Artificial Intelligence with Business Strategy at Aston University, Birmingham, UK, which allows me to explore AI-driven innovations for business applications. Skilled in building web and mobile applications, contributing to SaaS platforms, and adhering to Agile principles. Adept at delivering high-quality software solutions that meet client requirements while maintaining excellent coding standards. . Along with it, I also work as a freelancer at [FIVERR](https://www.fiverr.com/mmr1998) and [UPWORK](https://www.upwork.com/freelancers/~018b15d7ba74ae5efd). From that, I have also gained the capability of clients handling and work on under extreme pressure. So, I believe I would make an excellent addition to your team. 
+
 #### A bit more about me :bowing_man:
 - 🔭 I’m currently Working as a ASP.NET Developer.
 - 🌱 I’m Now learning & Working With ASP.NET 5+ and Angular 12+.
@@ -44,7 +45,7 @@ I’m a self-motivated Fresh Computer Science graduate who has More than 4 Years
 ## :hourglass: Experience
 
 <p>
-<img align="left" alt="simecsystemsltd" width="70px"  src="https://simecsystem.com/wp-content/themes/customtheme/images/System-logo.svg" />
+<img align="left" alt="simecsystemsltd" width="70px" height="30px" src="https://simecsystem.com/wp-content/themes/customtheme/images/System-logo.svg" />
 <Span><b>Full-Stack Software Developer (September 01, 2023 - November 30, 2024)</b></span><br />
 <Span>SIMEC Systems Ltd.</span><br />
 <Span>Uttara, Dhaka-1230, Bangladesh</span>
