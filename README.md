@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=mmr1998.mmr1998) [![Github](https://img.shields.io/github/followers/mmr1998?label=Followers&logo=Github)](https://github.com/mmr1998)
 
 ## :walking_man: About Me 😀
-I am an experienced Full-Stack Software Developer with over 4 years of professional experience in designing and developing scalable applications using the .NET framework, SQL Server, and modern frontend technologies like React. I am committed to continuous learning, currently pursuing an MSc in Artificial Intelligence with Business Strategy at Aston University, Birmingham, UK, which allows me to explore AI-driven innovations for business applications. Skilled in building web and mobile applications, contributing to SaaS platforms, and adhering to Agile principles. Adept at delivering high-quality software solutions that meet client requirements while maintaining excellent coding standards. . Along with it, I also work as a freelancer at [FIVERR](https://www.fiverr.com/mmr1998) and [UPWORK](https://www.upwork.com/freelancers/~018b15d7ba74ae5efd). From that, I have also gained the capability of clients handling and work on under extreme pressure. So, I believe I would make an excellent addition to your team. 
+I am an experienced Full-Stack Software Developer with over 4 years of professional experience in designing and developing scalable applications using the .NET framework, SQL Server, and modern frontend technologies like Angular, React. I am committed to continuous learning, currently pursuing an MSc in Artificial Intelligence with Business Strategy at Aston University, Birmingham, UK, which allows me to explore AI-driven innovations for business applications. Skilled in building web and mobile applications, contributing to SaaS platforms, and adhering to Agile principles. Adept at delivering high-quality software solutions that meet client requirements while maintaining excellent coding standards. Along with it, I also work as a freelancer at [FIVERR](https://www.fiverr.com/mmr1998) and [UPWORK](https://www.upwork.com/freelancers/~018b15d7ba74ae5efd). From that, I have also gained the capability of clients handling and work on under extreme pressure. So, I believe I would make an excellent addition to your team. 
 
 #### A bit more about me :bowing_man:
 - 🔭 I’m currently Working as a ASP.NET Developer.
@@ -16,7 +16,9 @@ I am an experienced Full-Stack Software Developer with over 4 years of professio
 <a href="https://www.fiverr.com/mmr1998">
   <img align="left" alt="MMR1998 | Fiverr" width="30px" height="30px" src="https://assetsv2.fiverrcdn.com/assets/favicon-32x32-23d4a3fd56a87eaf5a93ddf35a220811.png" />
 </a>
-
+<a href="https://www.upwork.com/freelancers/~018b15d7ba74ae5efd">
+  <img align="left" alt="MMR1998 | Fiverr" width="30px" height="30px" src="https://www.citypng.com/public/uploads/preview/upwork-round-black-and-white-logo-icon-735811696609924y4knq1epak.png" />
+</a>
 <a href="https://www.facebook.com/mmr1998/">
   <img align="left" alt="MMR1998 | Facebook" width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
