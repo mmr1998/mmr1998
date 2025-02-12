@@ -17,7 +17,7 @@ I am an experienced Full-Stack Software Developer with over 4 years of professio
   <img align="left" alt="MMR1998 | Fiverr" width="30px" height="30px" src="https://assetsv2.fiverrcdn.com/assets/favicon-32x32-23d4a3fd56a87eaf5a93ddf35a220811.png" />
 </a>
 <a href="https://www.upwork.com/freelancers/~018b15d7ba74ae5efd">
-  <img align="left" alt="MMR1998 | Fiverr" width="30px" height="30px" src="https://www.citypng.com/public/uploads/preview/upwork-round-black-and-white-logo-icon-735811696609924y4knq1epak.png" />
+  <img align="left" alt="MMR1998 | Fiverr" width="30px" height="30px" src="https://www.svgrepo.com/show/331630/upwork.svg" />
 </a>
 <a href="https://www.facebook.com/mmr1998/">
   <img align="left" alt="MMR1998 | Facebook" width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
